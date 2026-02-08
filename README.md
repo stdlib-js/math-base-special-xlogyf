@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import xlogyf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-xlogyf@deno/mod.js';
+import xlogyf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-xlogyf@v0.1.1-deno/mod.js';
 ```
 
 #### xlogyf( x, y )
@@ -84,7 +84,7 @@ out = xlogyf( NaN, 2.3 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import xlogyf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-xlogyf@deno/mod.js';
+import xlogyf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-xlogyf@v0.1.1-deno/mod.js';
 
 var x;
 var y;
